@@ -5,41 +5,7 @@
 
 
 
----
 
-
-<br>
-<table style="border: none;" >
-  <tr>
-    <td>
-      
-  ### 🛠️ About Me:
-- 🔭 I’m currently working on a : **Empowering myself**  
-- 🌱 I’m currently learning: **Web development and app development**  
-- 👯 I’m looking to collaborate on: **IoT projects, smart home systems, and innovative tech solutions**  
-- 💡 Ask me about: **C++, IoT, app development, or tech trends**  
-- 📫 How to reach me: **darshantce.059@gmail.com**  
-- ⚡ Fun fact: I enjoy brainstorming new ideas and creating impactful solutions!  
-      
-    </td>
-    <td>
-      <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-    </td>
-    
-  </tr>
-</table>
-
-
-
-
-
----
-
-  
-  
-
-
----
 
 ### 💻 Languages and Tools:
 <div align ="center" >
