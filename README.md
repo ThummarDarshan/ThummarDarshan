@@ -44,19 +44,19 @@
 #### ⚡ Streaks
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thummardarshan&theme=dark&card_width=900&card_height=300" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thummar darshan&theme=dark&card_width=900&card_height=300" />
     <img src="https://streak-stats.demolab.com?user=thummardarshan&theme=radical" />
   </picture>
 </div>
 
 #### ⚡ Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thummardarshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thummar darshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
 </p>
 
 #### 📊 GitHub Stats
 <pre align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummardarshan&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=thummardarshan&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummar darshan&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=thummardarshan&theme=radical" alt="GitHub Stats" />
 </pre>
 
 ---
