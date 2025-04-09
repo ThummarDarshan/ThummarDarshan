@@ -51,7 +51,7 @@
 
 #### ⚡ Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thummar darshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thummardarshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
 </p>
 
 #### 📊 GitHub Stats
