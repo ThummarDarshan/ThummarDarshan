@@ -56,7 +56,7 @@
 
 #### 📊 GitHub Stats
 <pre align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummar darshan&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=thummardarshan&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummardarshan&theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=thummardarshan&theme=radical" alt="GitHub Stats" />
 </pre>
 
 ---
