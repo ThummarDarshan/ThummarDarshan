@@ -1,41 +1,52 @@
-
 <h1 align="center">Hi 👋, I'm thummardarshan</h1>
-<h3 align="center">A passionate programmer from India.</h3>
+<h3 align="center">A passionate programmer and computer engineering student from India.</h3>
 
+---
 
+### 👨‍💻 About Me as a Computer Engineering Student:
+- 🎓 Pursuing Computer Engineering with a focus on **software development**, **IoT**, and **AI applications**.
+- 💡 Constantly learning about **data structures**, **networking**, **DBMS**, **microcontrollers**, and **operating systems**.
+- 🔭 I’m interested in **smart systems**, **embedded programming**, and **building scalable apps**.
+- 📚 Enthusiastic about tech that bridges the gap between **hardware and software**.
 
-
-
+---
 
 ### 💻 Languages and Tools:
-<div align ="center" >
-  <table style="border: none;">
+<div align="center">
+  <table>
     <tr>
-      <th>
-        <p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-</p>
-      </th>
+      <td align="center" width="100%">
+        <a href="https://www.cprogramming.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+        </a>
+        <a href="https://www.w3schools.com/cpp/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+        </a>
+        <a href="https://www.python.org/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+        </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+        </a>
+        <a href="https://www.arduino.cc/" target="_blank">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
+        </a>
+        <a href="https://code.visualstudio.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" />
+        </a>
+        <a href="https://www.mysql.com/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+        </a>
+      </td>
     </tr>
-  
-</table>
+  </table>
 </div>
-
 
 ---
 
@@ -44,44 +55,47 @@
 #### ⚡ Streaks
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thummardarshan&theme=dark&card_width=900&card_height=300" />
-    <img src="https://streak-stats.demolab.com?user=thummardarshan &theme=radical" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ThummarDarshan&theme=dark&card_width=900&card_height=300" />
+    <img src="https://streak-stats.demolab.com?user=ThummarDarshan&theme=radical" />
   </picture>
 </div>
 
 #### ⚡ Contributions
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thummardarshan &theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThummarDarshan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" height="70%" />
 </p>
 
 #### 📊 GitHub Stats
-<pre align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thummardarshan &theme=radical" alt="Top Languages" />  <img src="https://github-readme-stats.vercel.app/api?username=thummardarshan&theme=radical" alt="GitHub Stats" />
-</pre>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummarDarshan&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThummarDarshan&theme=radical" alt="GitHub Stats" />
+</p>
 
 ---
 
-
 ### 🏆 Achievements:
-- Successfully built and deployed IoT-based systems for home automation.
-- Contributed to multiple open-source projects focused on healthcare solutions.
-- Actively participated in competitive coding challenges on platforms like Hackerrank and LeetCode.
-- Completed a Smart Home Automation project using ESP32.
+- ✅ Built and deployed IoT-based systems for home automation.
+- ✅ Contributed to open-source projects focused on healthcare and education.
+- ✅ Competed in coding contests on platforms like Hackerrank, LeetCode.
+- ✅ Completed a **Smart Home Automation** system using ESP32.
+- ✅ Created a real-time **Weather Dashboard** with sensors and microcontrollers.
 
 ---
 
 ### 🛠️ Current Projects:
-- **Personal Growth** : Currently focused on improving my skills and knowledge in various technology domains.
-- **Open Source Contributions** : Actively contributing to community-driven projects.
+- **🔧 Skill Development**: Expanding knowledge in AI, Cloud Computing, and Software Architecture.
+- **🌐 Open Source**: Actively contributing to meaningful community-driven repositories.
+- **👨‍🏫 Mentoring**: Helping peers with coding fundamentals and Arduino-based hardware projects.
 
 ---
 
 ### 💡 Fun Projects & Experiments:
-- **Smart Home Automation**: Successfully implemented a project integrating IoT sensors and ESP32 to create an automated home ecosystem.
-- Weather Monitoring Dashboard using ESP32 and real-time data.
-- Portfolio Website showcasing skills and projects with responsive design.
-- AI Chatbots experiments to provide an interactive Q&A experience.
+- 🏠 **Smart Home Automation**: Controlled via mobile and voice assistants.
+- 🌤️ **Weather Monitoring System**: ESP32 + Sensors + Real-time dashboard.
+- 🧠 **AI Chatbots**: Experimenting with NLP models for interactive bots.
+- 🌐 **Portfolio Website**: Showcasing all my skills and projects with a clean design.
 
 ---
 
-Feel free to connect, collaborate, or follow my journey as I innovate and learn! 🚀
+📬 **Let's connect!**  
+Feel free to collaborate, discuss ideas, or just say hi. I'm always open to learning and sharing knowledge. 🚀
