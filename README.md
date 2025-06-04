@@ -49,7 +49,7 @@
 </div>
 
 ---
-
+/*
 ### 📈 GitHub Analytics:
 
 #### ⚡ Streaks
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummarDarshan&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=ThummarDarshan&theme=radical" alt="GitHub Stats" />
 </p>
-
+*/
 ---
 
 ### 🏆 Achievements:
