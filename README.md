@@ -11,6 +11,15 @@
 
 ---
 
+### 🌟 New Features / Highlights:
+- 🚀 **Live IoT Dashboards** for weather and home automation systems
+- 🧠 **AI-Powered Chatbots** using NLP libraries
+- 📊 **Enhanced GitHub Profile Stats** with Vercel analytics
+- 🌐 **Portfolio Website** – Coming soon with projects, blog, and resume
+- 🧪 Always experimenting with **real-world tech solutions** combining software + hardware
+
+---
+
 ### 💻 Languages and Tools:
 <div align="center">
   <table>
@@ -50,8 +59,6 @@
 
 ---
 
-
-
 #### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummarDarshan&theme=radical" alt="Top Languages" />
@@ -66,6 +73,8 @@
 - ✅ Competed in coding contests on platforms like Hackerrank, LeetCode.
 - ✅ Completed a **Smart Home Automation** system using ESP32.
 - ✅ Created a real-time **Weather Dashboard** with sensors and microcontrollers.
+- 🏅 **Won a Hackathon** at college and received a ₹5000 cash prize for building an innovative tech solution.
+
 
 ---
 
