@@ -68,13 +68,13 @@
 ---
 
 🏆 Achievements:
--✅ Built and deployed IoT-based systems for home automation.
--✅ Contributed to open-source projects focused on healthcare and education.
--✅ Competed in coding contests on platforms like Hackerrank and LeetCode.
--✅ Completed a Smart Home Automation system using ESP32.
--✅ Created a real-time Weather Dashboard using sensors and microcontrollers.
--🏅 Won a Hackathon at college and received a ₹5000 cash prize for building an innovative tech solution.
--🏆 Selected among the Top 250 teams out of 19,000+ participants in the Odoo Hackathon 2025, held in Gandhinagar.
+- ✅ Built and deployed IoT-based systems for home automation.
+- ✅ Contributed to open-source projects focused on healthcare and education.
+- ✅ Competed in coding contests on platforms like Hackerrank and LeetCode.
+- ✅ Completed a Smart Home Automation system using ESP32.
+- ✅ Created a real-time Weather Dashboard using sensors and microcontrollers.
+- 🏅 Won a Hackathon at college and received a ₹5000 cash prize for building an innovative tech solution.
+- 🏆 Selected among the Top 250 teams out of 19,000+ participants in the Odoo Hackathon 2025, held in Gandhinagar.
 
 ---
 
