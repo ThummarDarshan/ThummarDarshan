@@ -1,5 +1,4 @@
 
-https://drive.google.com/drive/folders/1ryYUOfvTd-J0Jbb-PM2QjfOfHDWqaUkP?usp=sharing
 
 <h1 align="center">Hi 👋, I'm thummardarshan</h1>
 <h3 align="center">A passionate programmer and computer engineering student from India.</h3>
