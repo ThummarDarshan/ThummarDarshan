@@ -61,14 +61,6 @@
 
 ---
 
-#### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThummarDarshan&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ThummarDarshan&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 🏆 Achievements:
 - ✅ Built and deployed IoT-based systems for home automation.
 - ✅ Contributed to open-source projects focused on healthcare and education.
