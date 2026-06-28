@@ -35,14 +35,6 @@ Computer Engineering Student • Full Stack Developer • AI Enthusiast • Open
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-
-## 🛠️ Tech Stack
-
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,git,github,vscode,arduino" />
 </p>
