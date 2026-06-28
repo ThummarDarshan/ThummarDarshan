@@ -37,35 +37,18 @@ Computer Engineering Student • Full Stack Developer • AI Enthusiast • Open
 
 ### Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
-</p>
 
-### Frontend
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" />
-</p>
 
-### Backend
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,arduino,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,nodejs,express,mysql,git,github,vscode,arduino,firebase" />
 </p>
 
 ---
+
 
 ## 🏆 Achievements
 
